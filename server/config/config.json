@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "alexandr",
+    "password": "foxmedia",
+    "database": "petstore",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "alexandr",
+    "password": "foxmedia",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres"
+  }
+}
